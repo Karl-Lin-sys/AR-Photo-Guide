@@ -1,0 +1,10 @@
+{
+  "name": "AR Photo Guide",
+  "description": "Snap a photo of a landmark to identify it, fetch real-time history, and listen to a narrated AR-style guide.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
